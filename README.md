@@ -4,10 +4,10 @@ El proyecto consiste en hacer un conjunto de taquillas (en mi caso he hecho 3 ta
 
 Puedes iniciar sesion como administrador para ver todas las funcionalidades con estas credenciales:
 _Por favor, si vas a borrar un usuario, que sea un usuario estandar, no un admin :)_
-email: test@gmail.com
-password: test
+* email: test@gmail.com
+* password: test
 
 Este proyecto estaba pensado para que funcionara con una raspberry y un lector de tarjetas nfc, utilizando Python. De hecho, fue entregado así.
 Pero he hecho una adaptación para simular el funcionamiento sin este lector.
 
-Para ver los materiales empleados en el proyecto original, puedes verlos [aquí] (https://proyectomireyachaparro.000webhostapp.com/materiales.php)
+Para ver los materiales empleados en el proyecto original, puedes verlos [aquí](https://proyectomireyachaparro.000webhostapp.com/materiales.php)
